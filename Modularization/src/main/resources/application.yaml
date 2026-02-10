@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Modularization
+
+  h2:
+    console:
+      enabled: true
